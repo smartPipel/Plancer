@@ -1,0 +1,65 @@
+
+body{
+    top:0;
+    margin: 0;
+}
+
+/*navbar style*/
+.navbar{
+    background-color: transparent;
+    z-index: 999;
+    color: #443EFC;
+    height: 35px;
+    width: 100%;
+}
+
+.menu{
+    float: right;
+    margin-top: 5px;
+    margin-right: 100px;
+}
+.menu a{
+    margin-left: 40px;
+}
+.logo{
+    float: left;
+}
+.logo img{
+    height: 25px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+/*head style*/
+.head{
+    z-index: 1;
+    background-image: url(../img/background-gradient.svg);
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+    
+}
+.left-content{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 30%;
+    float: left;
+}
+
+.left-content h1{
+    color: #443EFC;
+}
+.left-content p{
+    line-height: 40px;
+}
+.right-content{
+    width: 50%;
+    float: right;
+}
+.right-content img{
+    margin-top: 50px;
+    margin-left: 50px;
+}
