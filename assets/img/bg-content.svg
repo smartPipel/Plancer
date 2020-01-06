@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1161.504" viewBox="0 0 1920 1161.504">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.548" y1="-0.346" x2="0.561" y2="1.61" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.441" stop-color="#f1f1f1"/>
+      <stop offset="0.727" stop-color="#7de2dd"/>
+      <stop offset="1" stop-color="#35d4d4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.548" y1="-0.346" x2="0.561" y2="1.61" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.228" stop-color="#fff"/>
+      <stop offset="0.727" stop-color="#7de2dd"/>
+      <stop offset="1" stop-color="#80e2e2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.548" y1="-0.346" x2="0.551" y2="1.174" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="bg-content" transform="translate(0)">
+    <path id="background-gradient" d="M0,0H1920V528.389S1878.987,750.6,1728.152,840.865s-258.849,8.062-411.491,48.582c-96.96,25.738-27.889,137.608-357.054,165.178-110.27,9.236-263.466-35.309-405.919-19.433C269.682,1066.844,0,1161.5,0,1161.5Z" fill="url(#linear-gradient)"/>
+    <path id="background-gradient-2" data-name="background-gradient" d="M0,0H1920V512.79s-41.013,215.651-191.848,303.251-258.849,7.824-411.491,47.147c-96.96,24.979-27.889,133.545-357.054,160.3-110.27,8.963-263.466-34.267-405.919-18.859C269.682,1035.348,0,1127.213,0,1127.213Z" fill="url(#linear-gradient-2)"/>
+    <path id="background-gradient-3" data-name="background-gradient" d="M0,0H1920V497.19s-41.013,209.091-191.848,294.026S1469.3,798.8,1316.66,836.929c-96.96,24.219-27.889,129.482-357.054,155.425-110.27,8.691-263.466-33.224-405.919-18.285C269.682,1003.851,0,1092.922,0,1092.922Z" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
