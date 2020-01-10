@@ -88,6 +88,7 @@ body{
 }
 .img-hover:hover{
     transform: scale(1.1);
+    transition: width 2s;
 }
 @media only screen and (max-width: 600px) {
     .head{
