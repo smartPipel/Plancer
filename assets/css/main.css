@@ -47,13 +47,14 @@ body{
 }
 
 /*head style*/
-.menuitem{
-    margin-left: 600px;
+.menuitem a{
+    margin-left: 1000px;
+    color: #36EC4E !important;
 }
 .content{
     background-image: url(../img/bg-landing.svg);
     width: 100%;
-    height: 500vh;
+    height: 300vh;
     top: 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -109,8 +110,33 @@ body{
         width: 80px;
         
     }
+    .responsive{
+        display: none;
+    }
   }
-
+  
+  .carousel-my{
+      margin-top: 300px;
+  }
+  .poster{
+      background-image: url(../img/kerjo.jpg);
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+     
+  }
+  .footer{
+    background-image: url(../img/plancer-footer.svg);
+    width: 90%;
+    height: 200px;
+    background-size: cover;
+    bottom: 0;
+    position: absolute;
+    top: 390vh;
+    border: .2px solid black;
+    border-radius: 30px;
+    margin-left: 70px;
+}
   [data-scroll]{
       transition: transform 3s;
 
@@ -121,4 +147,7 @@ body{
   [data-croll="out"]{
       transform: translateY(200px);
   }
+  [data-croll="out-negative"]{
+    transform: translateX(-20px);
+}
   

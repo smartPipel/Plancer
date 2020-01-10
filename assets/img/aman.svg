@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="405" height="383" viewBox="0 0 405 383">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#80e2e2"/>
+      <stop offset="1" stop-color="#407171"/>
+    </linearGradient>
+    <filter id="Ellipse_26" x="182" y="79" width="192" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_27" x="199" y="99" width="158" height="178" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_76" x="30.601" y="0" width="244.955" height="375.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="aman" transform="translate(-1101 -78.711)">
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="202.5" cy="36" rx="202.5" ry="36" transform="translate(1101 389.711)" opacity="0.6" fill="url(#linear-gradient)"/>
+    <g id="Pembayaran-aman" transform="translate(1140.601 84.711)">
+      <g id="Group_80" data-name="Group 80" transform="translate(151.399 79.369)">
+        <g id="Group_79" data-name="Group 79">
+          <g transform="matrix(1, 0, 0, 1, -191, -85.37)" filter="url(#Ellipse_26)">
+            <ellipse id="Ellipse_26-2" data-name="Ellipse 26" cx="87" cy="100" rx="87" ry="100" transform="translate(191 85)" fill="#f3d200"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -191, -85.37)" filter="url(#Ellipse_27)">
+            <ellipse id="Ellipse_27-2" data-name="Ellipse 27" cx="70" cy="80" rx="70" ry="80" transform="translate(208 105)" fill="#f3d200"/>
+          </g>
+        </g>
+        <text id="_" data-name="$" transform="translate(62 123.631)" fill="#36ec4e" font-size="89" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">$</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -39.6, -6)" filter="url(#Path_76)">
+        <path id="Path_76-2" data-name="Path 76" d="M0,.013l119.142-38.89L226.955.013V211.3s-.518,17.907-6.734,30.794-18.129,20.755-18.129,20.755l-82.95,56.013L32.472,262.852S17.908,254.984,9.79,242.1,0,211.3,0,211.3Z" transform="translate(39.6 44.88)" fill="#6ff"/>
+      </g>
+      <path id="Path_77" data-name="Path 77" d="M0-3.534,108.276-38.876,206.256-3.534V188.48s-.471,16.273-6.12,27.985-16.476,18.862-16.476,18.862l-75.385,50.9-78.765-50.9S16.274,228.177,8.9,216.465,0,188.48,0,188.48Z" transform="translate(10.462 54.876)" fill="#36ec4e" opacity="0.47"/>
+    </g>
+  </g>
+</svg>
